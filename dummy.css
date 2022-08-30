@@ -1,0 +1,17 @@
+body
+{
+   
+    background-color: rgb(92, 214, 214);
+    
+}
+#main
+{
+    margin-top: 10px;
+    
+    justify-content: center;
+}
+#mainhead1
+{
+    margin-top: 50px;
+    text-align: center;
+}
